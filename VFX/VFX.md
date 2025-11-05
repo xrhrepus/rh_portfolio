@@ -18,7 +18,7 @@ Consists of 4 particle systems
 
 ![Chest open](ChestOpen.gif)
 
-![Chest open editor](ChestOpen_editor.gif)
+![Chest open editor](ChestOpen_Editor.gif)
 
 ## Fireball
 
