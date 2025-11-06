@@ -20,6 +20,6 @@ Customizable water wave, color, refraction and foam;
 
 Hologram effect with scanlines + Fresnel edge glowing effect;
 
-Customizable color, fliker frequence, edge glowing, scanline frequence and direction;
+Customizable color, fliker frequency, edge glowing, scanline frequency and direction;
 
 ![Hologram](Hologram.gif)
