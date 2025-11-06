@@ -18,7 +18,7 @@ Customizable water wave, color, refraction and foam;
 
 ## Hologram
 
-Hologram effect with scanlines + Fernel edge glowing effect;
+Hologram effect with scanlines + Fresnel edge glowing effect;
 
 Customizable color, fliker frequence, edge glowing, scanline frequence and direction;
 
